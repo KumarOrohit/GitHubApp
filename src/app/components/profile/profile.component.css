@@ -1,0 +1,24 @@
+.search-form {
+  max-width: 500px;
+  max-height: 250px;
+  margin: auto;
+
+  padding-top: 50px;
+}
+
+.card-title {
+  color: #33a9cd;
+}
+
+.cardd {
+  border-style: solid;
+}
+
+.btn {
+  background-color: #33a9cd;
+}
+
+.linkTag {
+  color: black;
+  text-decoration: none;
+}

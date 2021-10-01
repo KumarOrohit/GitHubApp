@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
+This Web-App will help to get the List of all Public github Repository with the User-Info.
+ 
+# How to use
+
+1. Enter the GitHub username in input feild and submit.
+2. It will give you list of all the public Repo. 
+3. There will be 10 repo per page. From the bottom You can change page see other repo if any.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -25,3 +33,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
